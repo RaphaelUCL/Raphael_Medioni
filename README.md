@@ -33,12 +33,12 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 
 ---
 
-### ▸ [Option Pricing via Monte Carlo Simulation](https://github.com/myprofile/option-pricing-montecarlo)  
-**Goal:** Pricing European options by simulating Black-Scholes-type trajectories.  
+### ▸ [Implied Volatility Surface Construction](https://github.com/RaphaelUCL/all/blob/main/implied_vol_surface_analysis.ipynb)  
+**Goal:** Construct and visualize an implied volatility surface from synthetic option data using interpolation techniques.  
 **Highlights:**
-- Generation of geometric Brownian motion paths  
-- Estimation of expected price and confidence intervals  
-- Comparison with analytical Black-Scholes formula
+- Generation of realistic mock option data (strike, maturity, implied volatility)  
+- Visualization of volatility smiles across different maturities  
+- Interactive and static 3D visualizations of the implied volatility surface using Plotly and Matplotli
 
 ---
 
