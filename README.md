@@ -22,12 +22,14 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 
 ## Selected Projects
 
-### ▸ [Market Making Algorithm for Polymarket](https://github.com/myprofile/market-making-polymarket)  
-**Goal:** Development of an optimized market making strategy for a decentralized prediction platform.  
+### ▸ [Intro to Market Making](https://github.com/RaphaelUCL/all/blob/main/Intro_to_market_making.ipynb)  
+**Goal:** Explore the Avellaneda-Stoikov market making model through simulation and parameter analysis.  
 **Highlights:**
-- Implementation of a Logarithmic Market Scoring Rule (LMSR) model  
-- Liquidity analysis and parameter calibration  
-- Simulation of a trading environment
+- Implementation of a dynamic quoting strategy based on inventory and market volatility  
+- Simulation of asset prices using Geometric Brownian Motion (GBM)  
+- Study of how parameters like `gamma`, `dt`, and `lambda_rate` affect profitability and risk  
+- Visualization of quotes, inventory, and PnL over time
+
 
 ---
 
