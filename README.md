@@ -1,4 +1,4 @@
-# Portfolio – Quantitative Finance & Mathematics
+# About Me & My Projects
 
 This GitHub repository showcases a selection of projects developed as part of both academic training and personal exploration in applied mathematics, financial modeling, and programming. It highlights real-world problems addressed using advanced mathematical tools and quantitative techniques.
 
@@ -79,6 +79,10 @@ Currently a student at [Name of institution or program], I specialize in the app
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)" />
+
+  
 </p>
 
 ---
