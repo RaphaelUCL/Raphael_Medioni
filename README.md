@@ -42,7 +42,7 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 
 ---
 
-### ▸ [Portfolio Optimization – Efficient Frontier](https://github.com/myprofile/portfolio-optimization)  
+### ▸ [WW](https://github.com/myprofile/portfolio-optimization)  
 **Goal:** Construction of optimal-risk portfolios for a given expected return.  
 **Highlights:**
 - Estimation of covariance matrices  
@@ -51,7 +51,7 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 
 ---
 
-### ▸ [Financial Time Series Analysis](https://github.com/myprofile/time-series-analysis)  
+### ▸ [WW](https://github.com/myprofile/time-series-analysis)  
 **Goal:** Modeling and analysis of high-frequency financial data.  
 **Highlights:**
 - Data cleaning and normalization  
@@ -60,7 +60,7 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 
 ---
 
-## Applied Mathematics Skills
+## Mathematical Concepts Studied
 
 - Stochastic calculus (Brownian motion, SDEs)  
 - Applied probability and statistics  
@@ -71,7 +71,7 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 
 ---
 
-## Technical Skills
+## Programming Concepts Covered
 
 - Scientific programming with Python  
 - Mathematical modeling and numerical simulation  
@@ -102,10 +102,9 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 ## Contact
 
 For any inquiries, collaborations, or professional opportunities:  
-📧 [email.address@example.com]  
-🔗 [https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/myprofile)
+📧 [raphael.medioni.22@ucl.ac.uk]  
+🔗 [https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/raphael-medioni/)
 
 ---
 
-> This portfolio is regularly updated to reflect ongoing projects and newly acquired skills.
 
