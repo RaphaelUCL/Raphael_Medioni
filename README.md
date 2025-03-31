@@ -1,12 +1,22 @@
 # About Me & My Projects
 
-This GitHub repository showcases a selection of projects developed as part of both academic training and personal exploration in applied mathematics, financial modeling, and programming. It highlights real-world problems addressed using advanced mathematical tools and quantitative techniques.
+This GitHub repository showcases a selection of projects developed as part of both academic training and personal exploration in applied mathematics, quantitative finance, and programming.
+
+The projects are primarily theoretical, and I plan to further develop some of them through internships or during my future academic studies. They aim to tackle real-world problems using advanced mathematical tools and quantitative techniques.
+
+If you'd like to discuss any of these projects, share feedback, or get in touch, feel free to reach out — my contact information is available at the bottom of the page.
 
 ---
 
 ## Overview
 
-Currently a student at [Name of institution or program], I specialize in the application of mathematics to financial markets, with a focus on stochastic analysis, pricing models, applied statistics, and numerical methods. This portfolio gathers several projects that I have designed, documented, and coded.
+Currently in my final year of a Bachelor of Arts and Sciences at UCL, I specialize in mathematics and civil engineering. I'm passionate about science and about applying mathematics, statistics, and engineering principles to finance.
+
+I'm currently writing my final year thesis on algorithmic market making, with a focus on building a system that could be used on Polymarket.
+
+Deeply fascinated by entrepreneurship, my long-term goal is to launch my own proprietary trading shop.
+
+Outside of academics, I’m passionate about poker, perfumery, and contemporary art.
 
 ---
 
