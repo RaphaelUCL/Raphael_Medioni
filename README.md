@@ -1,22 +1,22 @@
 # About Me & My Projects
 
-This GitHub repository showcases a selection of projects developed as part of both academic training and personal exploration in applied mathematics, quantitative finance, and programming.
+This GitHub repository presents a selection of projects developed as part of both academic training and personal exploration in applied mathematics, quantitative finance, and programming.
 
-The projects are primarily theoretical, and I plan to further develop some of them through internships or during my future academic studies. They aim to tackle real-world problems using advanced mathematical tools and quantitative techniques.
+The projects are primarily theoretical in nature, and I intend to further develop some of them through internships or during my future academic studies. They aim to bridge theoretical foundations with practical applications, and are designed to be usable with real-world data.
 
-If you'd like to discuss any of these projects, share feedback, or get in touch, feel free to reach out — my contact information is available at the bottom of the page.
+If you would like to discuss any of these projects, share feedback, or get in touch, please feel free to reach out — my contact details are available at the bottom of the page.
 
 ---
 
 ## Overview
 
-Currently in my final year of a Bachelor of Arts and Sciences at UCL, I specialize in mathematics and civil engineering. I'm passionate about science and about applying mathematics, statistics, and engineering principles to finance.
+Currently in my final year of a Bachelor of Arts and Sciences at UCL, I specialise in mathematics and civil engineering. I’m passionate about science and about applying mathematics, statistics, and engineering principles to finance.
 
-I'm currently writing my final year thesis on algorithmic market making, with a focus on building a system that could be used on Polymarket.
+I am currently writing my final-year dissertation on algorithmic market making, with a focus on developing a system that could be deployed on Polymarket.
 
-Deeply fascinated by entrepreneurship, my long-term goal is to launch my own proprietary trading shop.
+Deeply fascinated by entrepreneurship, my long-term goal is to launch my own proprietary trading firm.
 
-Outside of academics, I’m passionate about poker, perfumery, and contemporary art.
+Outside of academics, I’m passionate about poker, skiing, and contemporary art.
 
 ---
 
@@ -64,19 +64,22 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 * **Stochastic Processes and Calculus** *(Monte Carlo methods, Brownian motion, Poisson processes, random walks, Binomial tree models, SDEs, No-arbitrage pricing, Black–Scholes model)*
 * **Linear Algebra** *(Matrix operations, row reduction, Inverse matrices, factorizations, Eigenvalues and eigenvectors)*
 * **Differential Equations** *(First- and second-order ODEs, Series solutions, Difference equations, Partial Differential Equations)*
-* **Analysis and Calculus** *(Differentiation, Integration Multivariable calculus, Calculus of variations)*
-* *Complex Numbers, Calculus of Variations, Optimization* 
+* **Analysis and Calculus** *(Differentiation, Integration, Multivariable calculus, Taylor Series, Optimisations, Lagrange Multipliers)*
 
 
 ---
+## Statistical Concepts Studied
+* **Probability and Statistics** *(Probability theory, Statistical inference, Tolerance and prediction intervals, Uncertainty in measurements and experimental data)*
+* **Econometrics** *(Ordinary Least Squares, Multiple regression models, Statistical modeling in finance)*
+* **Sensitivity Analysis** *(Elementary effects, variance-based methods, Global sensitivity analysis)*
+* **Software** *(Data analysis and visualization with Stata, Statistical modeling using Statsmodels and SciPy)*
+---
 
-## Programming Concepts Covered
-
-- Scientific programming with Python  
-- Mathematical modeling and numerical simulation  
-- Data visualization and exploratory analysis  
-- Proficient in Jupyter, Git, and LaTeX  
-- Reproducible and well-structured development
+## Computational and Quantitative Applications
+* **Supervised learning** *(Linear regression, polynomial regression, Logistic regression, Naive Bayes)*
+* **Unsupervised learning** *(Clustering - K-means, Dimensionality reduction - PCA)*
+* **Kernel Methods, Model Selection and evaluation, Neural networks, Predictive modeling with XGBoost**
+* **Quantitative Methods for Finance** *(Option pricing, Portfolio optimization, Risk management metrics, Algorithmic MArket MAking and Avellaneda–Stoikov model)*
 
 ---
 
@@ -100,10 +103,8 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 
 ## Contact
 
-For any inquiries, collaborations, or professional opportunities:  
+To get in touch with me 
 📧 [raphael.medioni.22@ucl.ac.uk]  
 🔗 [https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/raphael-medioni/)
 
 ---
-
-
