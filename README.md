@@ -72,7 +72,8 @@ Outside of academics, I’m passionate about poker, skiing, and contemporary art
 * **Probability and Statistics** *(Probability theory, Statistical inference, Tolerance and prediction intervals, Uncertainty in measurements and experimental data)*
 * **Econometrics** *(Ordinary Least Squares, Multiple regression models, Statistical modeling in finance)*
 * **Sensitivity Analysis** *(Elementary effects, variance-based methods, Global sensitivity analysis)*
-* **Sofhtware** *(Data analysis and visualization with Stata, Statistical modeling using Statsmodels and SciPy)*
+* **Software** *(Data analysis and visualization with Stata, Statistical modeling using Statsmodels and SciPy)*
+  
 ---
 
 ## Computational and Quantitative Applications
