@@ -61,13 +61,12 @@ Outside of academics, I’m passionate about poker, perfumery, and contemporary 
 ---
 
 ## Mathematical Concepts Studied
+* **Stochastic Processes and Calculus** *(Monte Carlo methods, Brownian motion, Poisson processes, random walks, Binomial tree models, SDEs, No-arbitrage pricing, Black–Scholes model)*
+* **Linear Algebra** *(Matrix operations, row reduction, Inverse matrices, factorizations, Eigenvalues and eigenvectors)*
+* **Differential Equations** *(First- and second-order ODEs, Series solutions, Difference equations, Partial Differential Equations)*
+* **Analysis and Calculus** *(Differentiation, Integration Multivariable calculus, Calculus of variations)*
+* *Complex Numbers, Calculus of Variations, Optimization* 
 
-- Stochastic calculus (Brownian motion, SDEs)  
-- Applied probability and statistics  
-- Optimization (linear, quadratic, convex)  
-- Time series analysis  
-- Numerical methods (Monte Carlo, finite differences)  
-- Measure theory and integration for finance
 
 ---
 
