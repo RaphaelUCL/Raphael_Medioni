@@ -42,12 +42,12 @@ Outside of academics, I’m passionate about poker, skiing, and contemporary art
 
 ---
 
-### ▸ [WW](https://github.com/myprofile/portfolio-optimization)  
-**Goal:** Construction of optimal-risk portfolios for a given expected return.  
+### ▸ [Option Greeks Visualiser](https://github.com/RaphaelUCL/all/blob/main/Option_Greeks_Visualiser_.ipynb)  
+**Goal:** Build a tool to compute and visualise European option prices and Greeks under the Black-Scholes model.  
 **Highlights:**
-- Estimation of covariance matrices  
-- Quadratic optimization with constraints  
-- Visualization of Markowitz efficient frontier
+* Calculate European option prices under the Black-Scholes model,
+* Compute the standard Greeks (Delta, Gamma, Vega, Theta, Rho),
+* Visualise these Greeks in 2D and 3D (static and interactive).
 
 ---
 
