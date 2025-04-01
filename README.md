@@ -1,4 +1,4 @@
-# About Me & My Projects
+## About Me & My Projects
 
 This GitHub repository presents a selection of projects developed as part of both academic training and personal exploration in applied mathematics, quantitative finance, and programming.
 
