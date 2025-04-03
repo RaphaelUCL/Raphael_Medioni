@@ -51,12 +51,12 @@ Outside of academics, I’m passionate about poker, skiing, and contemporary art
 
 ---
 
-### ▸ [WW](https://github.com/myprofile/time-series-analysis)  
-**Goal:** Modeling and analysis of high-frequency financial data.  
+### ▸ [Portfolio Optimisation with Markowitz Efficient Frontier](https://github.com/RaphaelUCL/Raphael_Medioni/blob/main/Portfolio_Optimisation_with_Markowitz_Efficient_Frontier.ipynb)  
+**Goal:**  Build a simulator of Markowitz's Modern Portfolio Theory using real financial data from `yfinance`, to explore optimal asset allocation under different constraints.
 **Highlights:**
-- Data cleaning and normalization  
-- Stationarity, autocorrelation, ARIMA models  
-- Regime detection and conditional volatility (GARCH)
+- Simulation of the Efficient Frontier using thousands of random portfolios  
+- Portfolio optimisation based on Sharpe Ratio, volatility, or target expected return  
+- Real data integration using `yfinance` to analyse historical performance and asset behaviour
 
 ---
 
@@ -105,6 +105,7 @@ Outside of academics, I’m passionate about poker, skiing, and contemporary art
 ## Contact
 
 To get in touch with me 
+
 📧 [raphael.medioni.22@ucl.ac.uk]  
 🔗 [https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/raphael-medioni/)
 
