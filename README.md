@@ -1,6 +1,6 @@
 ## About Me & My Projects
 
-This GitHub repository presents a selection of projects developed as part of both academic training and personal exploration in applied mathematics, quantitative finance, and programming.
+This GitHub repository presents a selection of projects developed as part of both academic training and personal exploration in applied mathematics and quantitative finance.
 
 The projects are primarily theoretical in nature, and I intend to further develop some of them through internships or during my future academic studies. They aim to bridge theoretical foundations with practical applications, and are designed to be usable with real-world data.
 
