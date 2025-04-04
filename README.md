@@ -42,7 +42,7 @@ Outside of academics, I’m passionate about poker, skiing, and contemporary art
 
 ---
 
-### ▸ [Option Greeks Visualiser](https://github.com/RaphaelUCL/all/blob/main/Option_Greeks_Visualiser_.ipynb)  
+### ▸ [Option Greeks Visualiser](https://colab.research.google.com/drive/1njZmh3MNkYvmm650ZCt88KAMuW2-RJ2k?usp=sharing)  
 **Goal:** Build a tool to compute and visualise European option prices and Greeks under the Black-Scholes model.  
 **Highlights:**
 * Calculate European option prices under the Black-Scholes model,
